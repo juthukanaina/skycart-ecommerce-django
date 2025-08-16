@@ -39,9 +39,7 @@ SkyCart is a web-based e-commerce platform built using Django framework, designe
    - Add/edit/delete products.
    - Manage categories and orders.
    - Monitor stock availability.
-
 ---
-
 ## *Installation & Setup*
 1. Clone the repository:
    ```bash
